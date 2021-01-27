@@ -17,8 +17,8 @@
     "start": "concurrently -p \"[{name}]\" -c \"blue,red,green,yellow\" -k -n hexo,webpack,livereload,datocms \"npm run start:hexo\" \"npm run start:assets\" \"npm run start:livereload\" \"npm run start:datocms\""
   },
   "dependencies": {
-    "@babel/core": "^7.4.5",
-    "@babel/preset-env": "^7.4.5",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
     "babel-loader": "^8.0.6",
     "concurrently": "^5.0.0",
     "css-loader": "^3.2.0",
