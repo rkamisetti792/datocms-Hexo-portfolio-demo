@@ -39,7 +39,7 @@
     "scroll-lazy": "^1.0.3",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.0",
-    "webpack-dev-server": "^3.8.2"
+    "webpack-dev-server": "^4.8.0"
   },
   "devDependencies": {
     "mini-css-extract-plugin": "^0.8.0",
