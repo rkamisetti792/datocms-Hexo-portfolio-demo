@@ -22,7 +22,7 @@
     "babel-loader": "^8.0.6",
     "concurrently": "^5.0.0",
     "css-loader": "^3.2.0",
-    "datocms-client": "^3.0.3",
+    "datocms-client": "^3.4.7",
     "hexo": "^3.9.0",
     "hexo-generator-index": "^1.0.0",
     "hexo-generator-sitemap": "^1.2.0",
@@ -34,11 +34,11 @@
     "livereload": "^0.8.2",
     "lory.js": "^2.5.3",
     "masonry-layout": "^4.2.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^5.0.0",
     "sass-loader": "^8.0.0",
     "scroll-lazy": "^1.0.3",
     "style-loader": "^1.0.0",
-    "webpack": "^4.41.0",
+    "webpack": "^5.1.1",
     "webpack-dev-server": "^3.8.2"
   },
   "devDependencies": {
