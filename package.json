@@ -22,7 +22,7 @@
     "babel-loader": "^8.0.6",
     "concurrently": "^5.0.0",
     "css-loader": "^3.2.0",
-    "datocms-client": "^3.0.3",
+    "datocms-client": "^3.4.0",
     "hexo": "^3.9.0",
     "hexo-generator-index": "^1.0.0",
     "hexo-generator-sitemap": "^1.2.0",
